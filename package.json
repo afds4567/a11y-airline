@@ -24,6 +24,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://afds4567.github.io/a11y-airline/",
   "eslintConfig": {
     "extends": [
       "react-app",
